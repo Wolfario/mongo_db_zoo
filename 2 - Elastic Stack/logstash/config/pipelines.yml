@@ -1,8 +1,0 @@
-- pipeline.id: seoul_pipeline
-  path.config: "/usr/share/logstash/pipeline/seoul_air_pollution.conf"
-
-- pipeline.id: india_pipeline
-  path.config: "/usr/share/logstash/pipeline/india_air_pollution.conf"
-
-- pipeline.id: mexico_pipeline
-  path.config: "/usr/share/logstash/pipeline/mexico_air_pollution.conf"
